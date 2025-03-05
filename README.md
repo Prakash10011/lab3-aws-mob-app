@@ -1,16 +1,21 @@
-# aws
+# Digital Picture Frame
 
-A new Flutter project.
+A simple Flutter app that functions as a digital picture frame, displaying images in a rotating fashion. The images are fetched from external URLs (AWS S3 or any other source), and you can pause or resume the image rotation.
 
-## Getting Started
+## Features
+- Displays images in a responsive frame.
+- Automatically rotates images every 10 seconds.
+- Allows the user to pause and resume the image rotation.
 
-This project is a starting point for a Flutter application.
+## Requirements
+- Flutter 2.x or later
+- Internet connection for fetching images from URLs.
 
-A few resources to get you started if this is your first Flutter project:
+## Setup Instructions
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. **Clone the repository:**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   Open your terminal/command prompt and run the following command to clone the repository:
+
+   ```bash
+   git clone <repository_url>
