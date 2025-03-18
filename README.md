@@ -1,4 +1,5 @@
 Digital Picture Frame App :
+
 Overview:
 This is a Digital Picture Frame app built using Flutter. It loads and displays images from a list of URLs and automatically rotates through them every 10 seconds. The app also includes a pause and resume button to control the image rotation.
 
